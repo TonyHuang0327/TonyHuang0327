@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡Frontend Engineer building things on the web.<br>👯Hooper, gamer, and part-time guitarist.<br>🌱Refactoring my code and my body — both are ongoing projects.
+⚡Frontend Engineer<br>👯Hooper, gamer, and part-time guitarist.<br>🌱Refactoring my code and my body — both are ongoing projects.
 
 
 ## 🌐 Socials:
